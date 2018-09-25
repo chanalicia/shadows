@@ -5,3 +5,7 @@ Play in the role of your favorite nameless dark and handsome hero as he blobs th
 An exploration of character creation, world creation, level/coin/end game mechanics, and physics in Processing.
 
 Made for ID3510 - Interactive Products.
+
+---
+
+You'll need to install Processing to run the .pde file. Enjoy!
